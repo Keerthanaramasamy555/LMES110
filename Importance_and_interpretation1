@@ -1,0 +1,27 @@
+Feature Importance:
+
+It is the process of finding how much the input feature is having importance over the output
+or prediction is called feature importance.
+
+Interpretation:
+
+Again, similar principle of finding how much our inputs aliging with the prediction.
+
+
+Today Agenda:
+
+1. Dataiku
+2. Software and Code Running
+3. Other Tools downloading.
+  3.1 Python 3.2
+  3.2 Pycharm (useful for companies)
+  3.3 jupyter
+  3.4 SQL Download(https://dev.mysql.com/downloads/installer/)
+  3.5 PowerBI for desktop (https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+          PowerBI Desktop ---> Which only for Windows Users
+          PowerBI Service ---> URL---> Signin ---> Use
+
+          Instagram Desktop --->
+          Instagram URL --->
+  3.6 GITHUB
+
